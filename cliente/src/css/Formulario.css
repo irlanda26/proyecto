@@ -1,0 +1,41 @@
+.formulario-contenedor {
+    margin: auto;
+    margin-top: 50px;
+    height: 450px;
+    width: 400px;
+    padding: 10px;
+    background-color: #9f64ed;
+    border: solid #000;
+    border-radius: 20px;
+    box-shadow: -5px 8px 1px #281541;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-bottom: 50px;
+}
+.respuesta {
+    background-color: #9f64ed;
+    text-align: center;
+    align-items: center;
+}
+.form {
+    background-color: #9f64ed;
+    align-items: center;
+}
+.tit {
+    background-color: #9f64ed;
+    text-align: center;
+}
+.botonff {
+    background-color: #188843;
+    border: solid 2px #064e0f;
+    border-radius: 5px;
+    color: white;
+    margin: 0%;
+}
+.boton-rojoff {
+    background-color: #ac2929;
+    border: solid 2px #4e0606;
+    border-radius: 5px;
+    color: white;
+}

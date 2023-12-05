@@ -1,0 +1,29 @@
+.head-contenedor {
+  background-color: #431d6e;
+  color: #e8dbf7;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  height: 350px;
+  font-size: 70px;
+  padding-top: 40px;
+  padding-left: 50px;
+  background-image: radial-gradient(ellipse farthest-corner at 100px 50px, #431d6e 40%, #fff 40%);
+}
+.login {
+  width: 250px;
+  height: 220px;
+  border: 3px #000;
+  background-color: #764fa3;
+  border-radius: 20px;
+  margin-left: 50px;
+  align-items: center;
+
+}
+.espacio1 {
+  margin-bottom: 10px;
+  margin-top: 10px;
+  margin-left: 30px;
+}
+.espacio {
+  color: #fff;
+  margin-left: 40px;
+}
